@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "atelier-1"
+name = "atelier-2"
 version = "0.1.0"
 description = ""
 authors = ["Nicolas Depelteau <nicolas@depelteau.ca>"]

@@ -1,12 +1,15 @@
 {
 	"folders": [
-		{
-			"path": "."
-		},
-		{
-			"path": "Atelier-1"
-		}
-	],
+        {
+            "path": "."
+        },
+        {
+            "path": "Atelier-1"
+        },
+        {
+            "path": "Atelier-2"
+        }
+    ],
     "settings": {
         "cSpell.words": [
             "linalg"
